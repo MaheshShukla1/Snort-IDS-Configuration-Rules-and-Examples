@@ -1,7 +1,7 @@
 # Snort-Intrusion-Detection-System-Configuration-Rules-and-Examples
 
-# [Snort DAQ Modules: Data Acquisition, Traffic Inspection, and Configuration Guide](https://github.com/MaheshShukla1/Snort-Intrusion-Detection-System-Configuration-Rules-and-Examples/wiki/Snort-DAQ-Modules:-Data-Acquisition,-Traffic-Inspection,-and-Configuration-Guide)
-# [Snort Configuration Guide: Optimize Your Snort Setup for Effective Network Security](https://github.com/MaheshShukla1/Snort-Intrusion-Detection-System-Configuration-Rules-and-Examples/wiki/Snort-Configuration-Guide:-Optimize-Your-Snort-Setup-for-Effective-Network-Security)
+## [Snort DAQ Modules: Data Acquisition, Traffic Inspection, and Configuration Guide](https://github.com/MaheshShukla1/Snort-Intrusion-Detection-System-Configuration-Rules-and-Examples/wiki/Snort-DAQ-Modules:-Data-Acquisition,-Traffic-Inspection,-and-Configuration-Guide)
+## [Snort Configuration Guide: Optimize Your Snort Setup for Effective Network Security](https://github.com/MaheshShukla1/Snort-Intrusion-Detection-System-Configuration-Rules-and-Examples/wiki/Snort-Configuration-Guide:-Optimize-Your-Snort-Setup-for-Effective-Network-Security)
 # 🛡️ Snort Intrusion Detection System
 
 Welcome to the Snort repository! This repository provides comprehensive resources and guides for setting up and using Snort, an open-source intrusion detection system (IDS) renowned for its robust security capabilities.
