@@ -70,7 +70,7 @@ Follow the guides and examples provided in this repository to effectively deploy
 
 ## 🤝 Support
 
-For any questions, feedback, or support, please [open an issue](link_to_issues) or [join our community](link_to_community) for discussions and assistance.
+For any questions, feedback, or support, please [open an issue](link_to_issues) or [join our community]([join the community](https://discord.gg/EXVk7HVc)) for discussions and assistance.
 
 ## 🌟 Contributing
 
