@@ -1,4 +1,4 @@
-# Snort-Intrusion-Detection-System-Configuration-Rules-and-Examples
+# Snort-IDS-Configuration-Rules-and-Examples
 
 ## [Snort DAQ Modules: Data Acquisition, Traffic Inspection, and Configuration Guide](https://github.com/MaheshShukla1/Snort-Intrusion-Detection-System-Configuration-Rules-and-Examples/wiki/Snort-DAQ-Modules:-Data-Acquisition,-Traffic-Inspection,-and-Configuration-Guide)
 ## [Snort Configuration Guide: Optimize Your Snort Setup for Effective Network Security](https://github.com/MaheshShukla1/Snort-Intrusion-Detection-System-Configuration-Rules-and-Examples/wiki/Snort-Configuration-Guide:-Optimize-Your-Snort-Setup-for-Effective-Network-Security)
