@@ -1,11 +1,14 @@
-# Snort-IDS-Configuration-Rules-and-Examples
+# Snort IDS Configuration, Rules, and Examples
+
+This repository contains configuration files, rules, and examples for Snort IDS.
 
 ## [Snort DAQ Modules: Data Acquisition, Traffic Inspection, and Configuration Guide](https://github.com/MaheshShukla1/Snort-Intrusion-Detection-System-Configuration-Rules-and-Examples/wiki/Snort-DAQ-Modules:-Data-Acquisition,-Traffic-Inspection,-and-Configuration-Guide)
 ## [Snort Configuration Guide: Optimize Your Snort Setup for Effective Network Security](https://github.com/MaheshShukla1/Snort-Intrusion-Detection-System-Configuration-Rules-and-Examples/wiki/Snort-Configuration-Guide:-Optimize-Your-Snort-Setup-for-Effective-Network-Security)
-# 🛡️ Snort Intrusion Detection System
 
-Welcome to the Snort repository! This repository provides comprehensive resources and guides for setting up and using Snort, an open-source intrusion detection system (IDS) renowned for its robust security capabilities.
+## Snort Rules: A Comprehensive Guide
 
+For a detailed guide on Snort rules, visit the Wiki page 
+## [Snort Rules: A Comprehensive Guide](https://github.com/MaheshShukla1/Snort-IDS-Configuration-Rules-and-Examples/wiki/Snort-Rules:-A-Comprehensive-Guide)
 ## 🚀 Features
 
 - **DAQ Modules**: Understand and utilize Snort's Data Acquisition (DAQ) modules for efficient network traffic handling.
