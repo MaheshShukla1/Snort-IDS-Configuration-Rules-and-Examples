@@ -7,8 +7,9 @@ This repository contains configuration files, rules, and examples for Snort IDS.
 
 ## Snort Rules: A Comprehensive Guide
 
-For a detailed guide on Snort rules, visit the Wiki page 
 ## [Snort Rules: A Comprehensive Guide](https://github.com/MaheshShukla1/Snort-IDS-Configuration-Rules-and-Examples/wiki/Snort-Rules:-A-Comprehensive-Guide)
+
+## [Enhanced Rule Types in Snort 3: A Comprehensive Guide](https://github.com/MaheshShukla1/Snort-IDS-Configuration-Rules-and-Examples/wiki/Enhanced-Rule-Types-in-Snort-3:-A-Comprehensive-Guide)
 ## 🚀 Features
 
 - **DAQ Modules**: Understand and utilize Snort's Data Acquisition (DAQ) modules for efficient network traffic handling.
