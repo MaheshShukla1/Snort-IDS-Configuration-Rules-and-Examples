@@ -1,4 +1,4 @@
-# Snort IDS Configuration, Rules, and Examples
+# Snort IDS Configuration, Rules Notes
 
 This repository contains configuration files, rules, and examples for Snort IDS.
 
